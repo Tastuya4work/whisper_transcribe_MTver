@@ -1,0 +1,2 @@
+# whisper_transcribe_MTver
+whisperを使用した文字起こし
