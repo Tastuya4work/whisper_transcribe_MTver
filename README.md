@@ -1,7 +1,7 @@
 # whisper_transcribe_MTver
 whisperを使用した文字起こしプログラムです。
 
-[![image](https://user-images.githubusercontent.com/72183219/221099390-7d5fb813-620c-4ca9-b40f-f98ee2b0101f.png)](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)
+[![image](https://user-images.githubusercontent.com/72183219/221099390-7d5fb813-620c-4ca9-b40f-f98ee2b0101f.png)](https://colab.research.google.com/github/tatsuya4work/whisper_transcribe_MTver/blob/faster/wisper_transcribe.ipynb)
 
 上記アイコンをクリックする事で、実行環境に飛ぶことが出来ます。
 
